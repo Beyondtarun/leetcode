@@ -1,4 +1,4 @@
 # LeetCode Questions
- - in java , c++ , js
+ - ##in JAVA , C++ , JS
 
- - leetcode id [beyondtarun](https://leetcode.com/beyondtarun/)
+ - ##leetcode Id-> [beyondtarun](https://leetcode.com/beyondtarun/)
